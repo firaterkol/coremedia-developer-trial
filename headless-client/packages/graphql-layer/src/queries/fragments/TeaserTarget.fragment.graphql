@@ -1,0 +1,39 @@
+fragment TeaserTarget on ExtendedTeaserTarget {
+  target {
+    ...CMLinkable
+    ... on CMExternalLink {
+      url
+      openInNewTab
+    }
+    ... on CMDownload {
+      data {
+        uri
+      }
+    }
+    ... on CMExternalChannel {
+      id
+      categoryRef {
+        id
+        category {
+          ...CategoryLink
+        }
+      }
+    }
+    ... on CMProductTeaser {
+      productRef {
+        product {
+          ...ProductLink
+        }
+      }
+    }
+    ... on CMExternalProduct {
+      productRef {
+        product {
+          ...ProductLink
+        }
+      }
+    }
+  }
+  callToActionEnabled
+  callToActionText
+}

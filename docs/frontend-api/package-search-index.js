@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.coremedia.blueprint.common.contentbeans"},{"l":"com.coremedia.blueprint.common.layout"},{"l":"com.coremedia.blueprint.common.navigation"},{"l":"com.coremedia.blueprint.common.navigation.context.finder"},{"l":"com.coremedia.blueprint.common.navigation.context.selector"}];updateSearchResults();

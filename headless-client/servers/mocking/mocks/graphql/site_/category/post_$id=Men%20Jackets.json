@@ -1,0 +1,30 @@
+{
+  "data": {
+    "category": {
+      "id": "mock:///catalog/category/Men Jackets",
+      "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+      "externalId": "Men Jackets",
+      "shortId": "Men Jackets",
+      "name": "Jackets",
+      "breadcrumb": [
+        {
+          "name": "Apparel",
+          "externalId": "Apparel",
+          "__typename": "CategoryImpl"
+        },
+        {
+          "name": "Men",
+          "externalId": "Men",
+          "__typename": "CategoryImpl"
+        },
+        {
+          "name": "Jackets",
+          "externalId": "Men Jackets",
+          "__typename": "CategoryImpl"
+        }
+      ],
+      "__typename": "CategoryImpl",
+      "children": []
+    }
+  }
+}

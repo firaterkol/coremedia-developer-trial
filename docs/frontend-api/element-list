@@ -1,0 +1,5 @@
+com.coremedia.blueprint.common.contentbeans
+com.coremedia.blueprint.common.layout
+com.coremedia.blueprint.common.navigation
+com.coremedia.blueprint.common.navigation.context.finder
+com.coremedia.blueprint.common.navigation.context.selector

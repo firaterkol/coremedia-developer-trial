@@ -1,0 +1,30 @@
+{
+  "data": {
+    "category": {
+      "id": "mock:///catalog/category/Men Pants",
+      "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+      "externalId": "Men Pants",
+      "shortId": "Men Pants",
+      "name": "Pants",
+      "breadcrumb": [
+        {
+          "name": "Apparel",
+          "externalId": "Apparel",
+          "__typename": "CategoryImpl"
+        },
+        {
+          "name": "Men",
+          "externalId": "Men",
+          "__typename": "CategoryImpl"
+        },
+        {
+          "name": "Pants",
+          "externalId": "Men Pants",
+          "__typename": "CategoryImpl"
+        }
+      ],
+      "__typename": "CategoryImpl",
+      "children": []
+    }
+  }
+}

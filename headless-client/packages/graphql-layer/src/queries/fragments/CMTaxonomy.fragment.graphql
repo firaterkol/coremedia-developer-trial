@@ -1,0 +1,13 @@
+fragment CMTaxonomy on CMTaxonomy {
+  ...CMLinkable
+  value
+  translations: settings(paths:["translations"])
+  navigationPath {
+    segment
+    id
+    title
+    ... on CMTaxonomy {
+      value
+    }
+  }
+}

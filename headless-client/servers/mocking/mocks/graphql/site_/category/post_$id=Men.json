@@ -1,0 +1,182 @@
+{
+  "data": {
+    "category": {
+      "id": "mock:///catalog/category/Men",
+      "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+      "externalId": "Men",
+      "shortId": "Men",
+      "name": "Men",
+      "breadcrumb": [
+        {
+          "name": "Apparel",
+          "externalId": "Apparel",
+          "__typename": "CategoryImpl"
+        },
+        {
+          "name": "Men",
+          "externalId": "Men",
+          "__typename": "CategoryImpl"
+        }
+      ],
+      "__typename": "CategoryImpl",
+      "children": [
+        {
+          "id": "mock:///catalog/category/Men Jackets",
+          "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+          "externalId": "Men Jackets",
+          "shortId": "Men Jackets",
+          "name": "Jackets",
+          "breadcrumb": [
+            {
+              "name": "Apparel",
+              "externalId": "Apparel",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Men",
+              "externalId": "Men",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Jackets",
+              "externalId": "Men Jackets",
+              "__typename": "CategoryImpl"
+            }
+          ],
+          "__typename": "CategoryImpl",
+          "children": []
+        },
+        {
+          "id": "mock:///catalog/category/Men Shirts",
+          "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+          "externalId": "Men Shirts",
+          "shortId": "Men Shirts",
+          "name": "Shirts",
+          "breadcrumb": [
+            {
+              "name": "Apparel",
+              "externalId": "Apparel",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Men",
+              "externalId": "Men",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Shirts",
+              "externalId": "Men Shirts",
+              "__typename": "CategoryImpl"
+            }
+          ],
+          "__typename": "CategoryImpl",
+          "children": []
+        },
+        {
+          "id": "mock:///catalog/category/Men Suits",
+          "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+          "externalId": "Men Suits",
+          "shortId": "Men Suits",
+          "name": "Suits",
+          "breadcrumb": [
+            {
+              "name": "Apparel",
+              "externalId": "Apparel",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Men",
+              "externalId": "Men",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Suits",
+              "externalId": "Men Suits",
+              "__typename": "CategoryImpl"
+            }
+          ],
+          "__typename": "CategoryImpl",
+          "children": []
+        },
+        {
+          "id": "mock:///catalog/category/Men Pants",
+          "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+          "externalId": "Men Pants",
+          "shortId": "Men Pants",
+          "name": "Pants",
+          "breadcrumb": [
+            {
+              "name": "Apparel",
+              "externalId": "Apparel",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Men",
+              "externalId": "Men",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Pants",
+              "externalId": "Men Pants",
+              "__typename": "CategoryImpl"
+            }
+          ],
+          "__typename": "CategoryImpl",
+          "children": []
+        },
+        {
+          "id": "mock:///catalog/category/Men Accessories",
+          "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+          "externalId": "Men Accessories",
+          "shortId": "Men Accessories",
+          "name": "Accessories",
+          "breadcrumb": [
+            {
+              "name": "Apparel",
+              "externalId": "Apparel",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Men",
+              "externalId": "Men",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Accessories",
+              "externalId": "Men Accessories",
+              "__typename": "CategoryImpl"
+            }
+          ],
+          "__typename": "CategoryImpl",
+          "children": []
+        },
+        {
+          "id": "mock:///catalog/category/Men Shoes",
+          "siteId": "ced8921aa7b7f9b736b90e19afc2dd2a",
+          "externalId": "Men Shoes",
+          "shortId": "Men Shoes",
+          "name": "Shoes",
+          "breadcrumb": [
+            {
+              "name": "Apparel",
+              "externalId": "Apparel",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Men",
+              "externalId": "Men",
+              "__typename": "CategoryImpl"
+            },
+            {
+              "name": "Shoes",
+              "externalId": "Men Shoes",
+              "__typename": "CategoryImpl"
+            }
+          ],
+          "__typename": "CategoryImpl",
+          "children": []
+        }
+      ]
+    }
+  }
+}

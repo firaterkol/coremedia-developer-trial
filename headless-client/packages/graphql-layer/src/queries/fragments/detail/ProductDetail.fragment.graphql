@@ -1,0 +1,20 @@
+fragment ProductDetail on Product {
+  ...Product
+  longDescription
+  defaultImageUrl
+  category {
+    id
+    breadcrumb {
+      externalId
+    }
+  }
+  augmentation {
+    id
+    pictures {
+      ...CMPicture
+    }
+    downloads {
+      ...CMDownload
+    }
+  }
+}

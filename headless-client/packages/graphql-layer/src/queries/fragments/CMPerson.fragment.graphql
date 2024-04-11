@@ -1,0 +1,13 @@
+fragment CMPerson on CMPerson {
+  ...CMLinkable
+  displayName
+  teaserText {
+    text
+    plaintext: text(view: "plainFirstParagraph")
+  }
+  firstName
+  lastName
+  picture {
+    ...CMPicture
+  }
+}

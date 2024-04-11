@@ -1,0 +1,10 @@
+fragment CMTeasableForNavigation on CMTeasable {
+  ...CMLinkable
+  teaserTitle
+  picture {
+    ...CMPicture
+  }
+  teaserTargets {
+    ...TeaserTarget
+  }
+}
